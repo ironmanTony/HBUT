@@ -93,8 +93,8 @@ public class AdapterForSchedule extends MyBaseAdapter{
                         course.courseTime.setText(time);
                         course.courseTeacher.setText(teacher);
 //                }
-                System.out.println("/////////in adapter for schedule//////////////"+isOneLine.size());
-                System.out.println(isOneLine);
+//                System.out.println("/////////in adapter for schedule//////////////"+isOneLine.size());
+//                System.out.println(isOneLine);
                 if(isOneLine.get(position+1)==1){
                         course.courseName.setBackgroundColor(Color.rgb(198,219,228));
                         course.courseTeacher.setBackgroundColor(Color.rgb(198,219,228));

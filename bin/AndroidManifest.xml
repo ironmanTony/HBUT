@@ -46,6 +46,9 @@
             android:name="com.young.activity.ChoseItemActivity"
             android:label="@string/title_activity_chose_item" >
         </activity>
+        <activity 
+            android:name="com.hbut.activity.LocalScheduleActivity"
+            ></activity>
     </application>
 
 </manifest>

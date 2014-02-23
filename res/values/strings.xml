@@ -53,6 +53,8 @@
     <color name="green">#64ed89</color>
     <color name="light_green">#37de6a</color>
     <color name="gray">#CD853F</color>
+    <!-- 这是后来做本地数据的时候添加的string -->
+    <string name="local_schedule">我的课表</string>
     
 
 </resources>
